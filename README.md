@@ -1,1 +1,1 @@
-C - Stacks, Queues - LIFO, FIFO.
+0X18 STACKS
